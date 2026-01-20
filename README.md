@@ -1,0 +1,2 @@
+# IoT-Enabled-Online-Offline-UPS-System-with-Embedded-Battery-Health-Diagnostics-
+IoT-enabled online/offline UPS with battery health diagnostics ensuring uninterrupted power supply. The system monitors battery voltage, current, temperature, and water level using sensors and a NodeMCU ESP8266, sending real-time data to an IoT platform for remote monitoring, instant alerts, preventive maintenance, and improved reliability.
